@@ -26,8 +26,8 @@ body {
 .login-box {
     position: relative;
     width: 80%;
-    margin: 10%;
-    margin-top: 20%;
+    margin-left: 10%;
+    margin-top: 80px;
     padding: 20px;
     background: linear-gradient(45deg, #006638, #0CE885, #00FF8C, #0CE885, #0DFF92);
     box-sizing: border-box;
