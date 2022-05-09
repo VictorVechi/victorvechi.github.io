@@ -18,8 +18,8 @@ body {
     position: absolute;
     top: 25px;
     right: 50px;
-    height: 450px;
-    width: 750px;
+    height: 400px;
+    width: 700px;
     border-radius: 200px 40px 150px;
 }
 
@@ -28,16 +28,16 @@ body {
     margin-top: 0;
     position: relative;
     top: 5px;
-    width: 675px;
+    width: 570px;
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 16pt;
+    font-size: 14pt;
     color: #59606B;
 }
 
 .contato {
     position: absolute;
     bottom: 80px;
-    right: 25%;
+    right: 23%;
     color: #FE7EC6;
     font-family: 'Otomanopee One', sans-serif; 
 }
@@ -95,7 +95,7 @@ body {
 .titulo {
     font-family: 'Otomanopee One', sans-serif;
     color: #4B94F2;
-    font-size: 30pt;
+    font-size: 27pt;
     text-transform: uppercase;
 }
 
@@ -118,5 +118,6 @@ body {
     font-family: 'Otomanopee One', sans-serif;
     color: #4B94F2;
     text-transform: uppercase;
-    font-size: 14pt;
+    font-size: 12pt;
 }
+
